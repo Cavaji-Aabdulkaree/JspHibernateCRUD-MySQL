@@ -1,10 +1,10 @@
 # JspHibernateCRUD-MySQL
-# ----------tool---------------
+ ----------tool---------------
 # NetBeans IDE 8.1
 # mysql 5.5
 # hibernate 4.3.11
 # JSP
-# -----------------------------
+ -----------------------------
  
 #    Document   : index
 #    Created on : Mar 20, 2016, 2:03:43 PM
